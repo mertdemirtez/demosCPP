@@ -1,6 +1,6 @@
 # demosC++ - 𝓬𝓻𝓮𝓪𝓽𝓮𝓭 𝓫𝔂 𝓶𝓮𝓻𝓽 𝓭𝓮𝓶𝓲𝓻
  
-𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝟷𝚜𝚝 𝚢𝚎𝚊𝚛 𝙲++ 𝚜𝚝𝚞𝚍𝚒𝚎𝚜
+𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝟏𝐬𝐭 𝐲𝐞𝐚𝐫 𝐂++ 𝐬𝐭𝐮𝐝𝐢𝐞𝐬 (𝐃𝐄𝐕 𝐂++ 𝐈𝐃𝐄)
  
  ⭐ This GitHub repository contains some of the projects that I worked on when I was a freshman computer engineering student. ⭐
  
